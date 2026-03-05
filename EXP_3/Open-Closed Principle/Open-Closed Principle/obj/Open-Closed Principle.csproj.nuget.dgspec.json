@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\DOTNET\\Lab\\Open-Closed Principle\\Open-Closed Principle\\Open-Closed Principle.csproj": {}
+    "G:\\DOTNET\\Lab\\EXP_3\\Open-Closed Principle\\Open-Closed Principle\\Open-Closed Principle.csproj": {}
   },
   "projects": {
-    "G:\\DOTNET\\Lab\\Open-Closed Principle\\Open-Closed Principle\\Open-Closed Principle.csproj": {
+    "G:\\DOTNET\\Lab\\EXP_3\\Open-Closed Principle\\Open-Closed Principle\\Open-Closed Principle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\DOTNET\\Lab\\Open-Closed Principle\\Open-Closed Principle\\Open-Closed Principle.csproj",
+        "projectUniqueName": "G:\\DOTNET\\Lab\\EXP_3\\Open-Closed Principle\\Open-Closed Principle\\Open-Closed Principle.csproj",
         "projectName": "Open-Closed Principle",
-        "projectPath": "G:\\DOTNET\\Lab\\Open-Closed Principle\\Open-Closed Principle\\Open-Closed Principle.csproj",
+        "projectPath": "G:\\DOTNET\\Lab\\EXP_3\\Open-Closed Principle\\Open-Closed Principle\\Open-Closed Principle.csproj",
         "packagesPath": "C:\\Users\\GOUTAM\\.nuget\\packages\\",
-        "outputPath": "G:\\DOTNET\\Lab\\Open-Closed Principle\\Open-Closed Principle\\obj\\",
+        "outputPath": "G:\\DOTNET\\Lab\\EXP_3\\Open-Closed Principle\\Open-Closed Principle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

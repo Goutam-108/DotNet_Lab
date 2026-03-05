@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\DOTNET\\Lab\\Interface Segregation Principle\\Interface Segregation Principle\\Interface Segregation Principle.csproj",
+      "projectUniqueName": "G:\\DOTNET\\Lab\\EXP_3\\Interface Segregation Principle\\Interface Segregation Principle\\Interface Segregation Principle.csproj",
       "projectName": "Interface Segregation Principle",
-      "projectPath": "G:\\DOTNET\\Lab\\Interface Segregation Principle\\Interface Segregation Principle\\Interface Segregation Principle.csproj",
+      "projectPath": "G:\\DOTNET\\Lab\\EXP_3\\Interface Segregation Principle\\Interface Segregation Principle\\Interface Segregation Principle.csproj",
       "packagesPath": "C:\\Users\\GOUTAM\\.nuget\\packages\\",
-      "outputPath": "G:\\DOTNET\\Lab\\Interface Segregation Principle\\Interface Segregation Principle\\obj\\",
+      "outputPath": "G:\\DOTNET\\Lab\\EXP_3\\Interface Segregation Principle\\Interface Segregation Principle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

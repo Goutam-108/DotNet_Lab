@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DOTNET_LAB\\EXP_2\\OOP\\OOP\\OOP.csproj",
+      "projectUniqueName": "G:\\DOTNET\\Lab\\EXP_2\\OOP\\OOP\\OOP.csproj",
       "projectName": "OOP",
-      "projectPath": "C:\\DOTNET_LAB\\EXP_2\\OOP\\OOP\\OOP.csproj",
+      "projectPath": "G:\\DOTNET\\Lab\\EXP_2\\OOP\\OOP\\OOP.csproj",
       "packagesPath": "C:\\Users\\GOUTAM\\.nuget\\packages\\",
-      "outputPath": "C:\\DOTNET_LAB\\EXP_2\\OOP\\OOP\\obj\\",
+      "outputPath": "G:\\DOTNET\\Lab\\EXP_2\\OOP\\OOP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,12 +67,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.24, 8.0.24]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.24, 8.0.24]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.24, 8.0.24]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.24, 8.0.24]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

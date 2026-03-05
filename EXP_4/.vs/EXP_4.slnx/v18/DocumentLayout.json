@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "G:\\DOTNET\\Lab\\EXP_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80ECCB4C-ACC4-4B01-B302-EDBAB0D4583D}|EXP_4\\EXP_4.csproj|g:\\dotnet\\lab\\exp_4\\exp_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80ECCB4C-ACC4-4B01-B302-EDBAB0D4583D}|EXP_4\\EXP_4.csproj|solutionrelative:exp_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C2C76C0-6D61-6A94-A708-999220E6F486}|EXP_4\\EXP_4.csproj|g:\\dotnet\\lab\\exp_4\\exp_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2C76C0-6D61-6A94-A708-999220E6F486}|EXP_4\\EXP_4.csproj|solutionrelative:exp_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "EXP_4\\Program.cs",
               "ToolTip": "G:\\DOTNET\\Lab\\EXP_4\\EXP_4\\Program.cs",
               "RelativeToolTip": "EXP_4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T07:12:53.338Z",
               "EditorCaption": ""

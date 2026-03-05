@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\DOTNET_LAB\\EXP_2\\OOP\\",
+  "WorkspaceRootPath": "G:\\DOTNET\\Lab\\EXP_2\\OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8987AEC9-7119-4B14-8B1F-0786A77ED7B1}|OOP\\OOP.csproj|c:\\dotnet_lab\\exp_2\\oop\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8987AEC9-7119-4B14-8B1F-0786A77ED7B1}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3005AC2E-C28B-7502-D13D-7C589368E488}|OOP\\OOP.csproj|g:\\dotnet\\lab\\exp_2\\oop\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3005AC2E-C28B-7502-D13D-7C589368E488}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\DOTNET_LAB\\EXP_2\\OOP\\OOP\\Program.cs",
+              "DocumentMoniker": "G:\\DOTNET\\Lab\\EXP_2\\OOP\\OOP\\Program.cs",
               "RelativeDocumentMoniker": "OOP\\Program.cs",
-              "ToolTip": "C:\\DOTNET_LAB\\EXP_2\\OOP\\OOP\\Program.cs*",
-              "RelativeToolTip": "OOP\\Program.cs*",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAuwD0AAAAIAAAAAAAAAA==",
+              "ToolTip": "G:\\DOTNET\\Lab\\EXP_2\\OOP\\OOP\\Program.cs",
+              "RelativeToolTip": "OOP\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwDAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T07:32:03.201Z",
               "EditorCaption": ""

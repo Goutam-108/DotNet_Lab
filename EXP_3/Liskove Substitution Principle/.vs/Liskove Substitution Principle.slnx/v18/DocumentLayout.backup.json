@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\DOTNET\\Lab\\Liskove Substitution Principle\\",
+  "WorkspaceRootPath": "G:\\DOTNET\\Lab\\EXP_3\\Liskove Substitution Principle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C182E6AC-6480-4502-8DA2-A590F23DE4EB}|Liskove Substitution Principle\\Liskove Substitution Principle.csproj|g:\\dotnet\\lab\\liskove substitution principle\\liskove substitution principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C182E6AC-6480-4502-8DA2-A590F23DE4EB}|Liskove Substitution Principle\\Liskove Substitution Principle.csproj|solutionrelative:liskove substitution principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3930277A-8FBC-EB7F-61B5-9EE70FB99223}|Liskove Substitution Principle\\Liskove Substitution Principle.csproj|g:\\dotnet\\lab\\exp_3\\liskove substitution principle\\liskove substitution principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3930277A-8FBC-EB7F-61B5-9EE70FB99223}|Liskove Substitution Principle\\Liskove Substitution Principle.csproj|solutionrelative:liskove substitution principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,10 +20,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "G:\\DOTNET\\Lab\\Liskove Substitution Principle\\Liskove Substitution Principle\\Program.cs",
+              "DocumentMoniker": "G:\\DOTNET\\Lab\\EXP_3\\Liskove Substitution Principle\\Liskove Substitution Principle\\Program.cs",
               "RelativeDocumentMoniker": "Liskove Substitution Principle\\Program.cs",
-              "ToolTip": "G:\\DOTNET\\Lab\\Liskove Substitution Principle\\Liskove Substitution Principle\\Program.cs*",
-              "RelativeToolTip": "Liskove Substitution Principle\\Program.cs*",
+              "ToolTip": "G:\\DOTNET\\Lab\\EXP_3\\Liskove Substitution Principle\\Liskove Substitution Principle\\Program.cs",
+              "RelativeToolTip": "Liskove Substitution Principle\\Program.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAQwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T12:30:39.58Z",

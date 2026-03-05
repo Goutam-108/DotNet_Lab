@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\DOTNET\\Lab\\Single Responsibility Principle\\",
+  "WorkspaceRootPath": "G:\\DOTNET\\Lab\\EXP_3\\Single Responsibility Principle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{912A2EF8-F415-4E80-B971-397DBCCC9D10}|Single Responsibility Principle\\Single Responsibility Principle.csproj|g:\\dotnet\\lab\\single responsibility principle\\single responsibility principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{912A2EF8-F415-4E80-B971-397DBCCC9D10}|Single Responsibility Principle\\Single Responsibility Principle.csproj|solutionrelative:single responsibility principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{918607A0-3E16-BDBE-562D-DD735DFDCF29}|Single Responsibility Principle\\Single Responsibility Principle.csproj|g:\\dotnet\\lab\\exp_3\\single responsibility principle\\single responsibility principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918607A0-3E16-BDBE-562D-DD735DFDCF29}|Single Responsibility Principle\\Single Responsibility Principle.csproj|solutionrelative:single responsibility principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "G:\\DOTNET\\Lab\\Single Responsibility Principle\\Single Responsibility Principle\\Program.cs",
+              "DocumentMoniker": "G:\\DOTNET\\Lab\\EXP_3\\Single Responsibility Principle\\Single Responsibility Principle\\Program.cs",
               "RelativeDocumentMoniker": "Single Responsibility Principle\\Program.cs",
-              "ToolTip": "G:\\DOTNET\\Lab\\Single Responsibility Principle\\Single Responsibility Principle\\Program.cs",
+              "ToolTip": "G:\\DOTNET\\Lab\\EXP_3\\Single Responsibility Principle\\Single Responsibility Principle\\Program.cs",
               "RelativeToolTip": "Single Responsibility Principle\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAQwEYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T12:32:30.131Z",
               "EditorCaption": ""
