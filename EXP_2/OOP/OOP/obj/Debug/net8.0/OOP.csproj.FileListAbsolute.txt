@@ -1,0 +1,14 @@
+C:\DOTNET_LAB\EXP_2\OOP\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOTNET_LAB\EXP_2\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+C:\DOTNET_LAB\EXP_2\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+C:\DOTNET_LAB\EXP_2\OOP\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+C:\DOTNET_LAB\EXP_2\OOP\OOP\bin\Debug\net8.0\OOP.exe
+C:\DOTNET_LAB\EXP_2\OOP\OOP\bin\Debug\net8.0\OOP.deps.json
+C:\DOTNET_LAB\EXP_2\OOP\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+C:\DOTNET_LAB\EXP_2\OOP\OOP\bin\Debug\net8.0\OOP.dll
+C:\DOTNET_LAB\EXP_2\OOP\OOP\bin\Debug\net8.0\OOP.pdb
+C:\DOTNET_LAB\EXP_2\OOP\OOP\obj\Debug\net8.0\OOP.dll
+C:\DOTNET_LAB\EXP_2\OOP\OOP\obj\Debug\net8.0\refint\OOP.dll
+C:\DOTNET_LAB\EXP_2\OOP\OOP\obj\Debug\net8.0\OOP.pdb
+C:\DOTNET_LAB\EXP_2\OOP\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\DOTNET_LAB\EXP_2\OOP\OOP\obj\Debug\net8.0\ref\OOP.dll

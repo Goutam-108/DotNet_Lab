@@ -1,0 +1,14 @@
+G:\DOTNET\Lab\Interface Segregation Principle\Interface Segregation Principle\bin\Debug\net8.0\Interface Segregation Principle.exe
+G:\DOTNET\Lab\Interface Segregation Principle\Interface Segregation Principle\bin\Debug\net8.0\Interface Segregation Principle.deps.json
+G:\DOTNET\Lab\Interface Segregation Principle\Interface Segregation Principle\bin\Debug\net8.0\Interface Segregation Principle.runtimeconfig.json
+G:\DOTNET\Lab\Interface Segregation Principle\Interface Segregation Principle\bin\Debug\net8.0\Interface Segregation Principle.dll
+G:\DOTNET\Lab\Interface Segregation Principle\Interface Segregation Principle\bin\Debug\net8.0\Interface Segregation Principle.pdb
+G:\DOTNET\Lab\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\net8.0\Interface Segregation Principle.GeneratedMSBuildEditorConfig.editorconfig
+G:\DOTNET\Lab\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\net8.0\Interface Segregation Principle.AssemblyInfoInputs.cache
+G:\DOTNET\Lab\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\net8.0\Interface Segregation Principle.AssemblyInfo.cs
+G:\DOTNET\Lab\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\net8.0\Interface Segregation Principle.csproj.CoreCompileInputs.cache
+G:\DOTNET\Lab\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\net8.0\Interface Segregation Principle.dll
+G:\DOTNET\Lab\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\net8.0\refint\Interface Segregation Principle.dll
+G:\DOTNET\Lab\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\net8.0\Interface Segregation Principle.pdb
+G:\DOTNET\Lab\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\net8.0\Interface Segregation Principle.genruntimeconfig.cache
+G:\DOTNET\Lab\Interface Segregation Principle\Interface Segregation Principle\obj\Debug\net8.0\ref\Interface Segregation Principle.dll

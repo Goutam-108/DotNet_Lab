@@ -1,0 +1,14 @@
+G:\DOTNET\Lab\EXP_3\Dependency Inversion Principle\Dependency Inversion Principle\bin\Debug\net8.0\Dependency Inversion Principle.exe
+G:\DOTNET\Lab\EXP_3\Dependency Inversion Principle\Dependency Inversion Principle\bin\Debug\net8.0\Dependency Inversion Principle.deps.json
+G:\DOTNET\Lab\EXP_3\Dependency Inversion Principle\Dependency Inversion Principle\bin\Debug\net8.0\Dependency Inversion Principle.runtimeconfig.json
+G:\DOTNET\Lab\EXP_3\Dependency Inversion Principle\Dependency Inversion Principle\bin\Debug\net8.0\Dependency Inversion Principle.dll
+G:\DOTNET\Lab\EXP_3\Dependency Inversion Principle\Dependency Inversion Principle\bin\Debug\net8.0\Dependency Inversion Principle.pdb
+G:\DOTNET\Lab\EXP_3\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net8.0\Dependency Inversion Principle.GeneratedMSBuildEditorConfig.editorconfig
+G:\DOTNET\Lab\EXP_3\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net8.0\Dependency Inversion Principle.AssemblyInfoInputs.cache
+G:\DOTNET\Lab\EXP_3\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net8.0\Dependency Inversion Principle.AssemblyInfo.cs
+G:\DOTNET\Lab\EXP_3\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net8.0\Dependency Inversion Principle.csproj.CoreCompileInputs.cache
+G:\DOTNET\Lab\EXP_3\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net8.0\Dependency Inversion Principle.dll
+G:\DOTNET\Lab\EXP_3\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net8.0\refint\Dependency Inversion Principle.dll
+G:\DOTNET\Lab\EXP_3\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net8.0\Dependency Inversion Principle.pdb
+G:\DOTNET\Lab\EXP_3\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net8.0\Dependency Inversion Principle.genruntimeconfig.cache
+G:\DOTNET\Lab\EXP_3\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net8.0\ref\Dependency Inversion Principle.dll

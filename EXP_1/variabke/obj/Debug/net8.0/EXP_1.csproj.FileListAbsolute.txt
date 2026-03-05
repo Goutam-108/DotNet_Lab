@@ -1,0 +1,14 @@
+C:\DOTNET_LAB\program\variabke\bin\Debug\net8.0\EXP_1.exe
+C:\DOTNET_LAB\program\variabke\bin\Debug\net8.0\EXP_1.deps.json
+C:\DOTNET_LAB\program\variabke\bin\Debug\net8.0\EXP_1.runtimeconfig.json
+C:\DOTNET_LAB\program\variabke\bin\Debug\net8.0\EXP_1.dll
+C:\DOTNET_LAB\program\variabke\bin\Debug\net8.0\EXP_1.pdb
+C:\DOTNET_LAB\program\variabke\obj\Debug\net8.0\EXP_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOTNET_LAB\program\variabke\obj\Debug\net8.0\EXP_1.AssemblyInfoInputs.cache
+C:\DOTNET_LAB\program\variabke\obj\Debug\net8.0\EXP_1.AssemblyInfo.cs
+C:\DOTNET_LAB\program\variabke\obj\Debug\net8.0\EXP_1.csproj.CoreCompileInputs.cache
+C:\DOTNET_LAB\program\variabke\obj\Debug\net8.0\EXP_1.dll
+C:\DOTNET_LAB\program\variabke\obj\Debug\net8.0\refint\EXP_1.dll
+C:\DOTNET_LAB\program\variabke\obj\Debug\net8.0\EXP_1.pdb
+C:\DOTNET_LAB\program\variabke\obj\Debug\net8.0\EXP_1.genruntimeconfig.cache
+C:\DOTNET_LAB\program\variabke\obj\Debug\net8.0\ref\EXP_1.dll

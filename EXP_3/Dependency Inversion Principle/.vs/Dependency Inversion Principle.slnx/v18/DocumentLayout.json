@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\DOTNET\\Lab\\EXP_3\\Dependency Inversion Principle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A260D25-FCFF-46E5-8759-73B1C41945CB}|Dependency Inversion Principle\\Dependency Inversion Principle.csproj|g:\\dotnet\\lab\\exp_3\\dependency inversion principle\\dependency inversion principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A260D25-FCFF-46E5-8759-73B1C41945CB}|Dependency Inversion Principle\\Dependency Inversion Principle.csproj|solutionrelative:dependency inversion principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\DOTNET\\Lab\\EXP_3\\Dependency Inversion Principle\\Dependency Inversion Principle\\Program.cs",
+              "RelativeDocumentMoniker": "Dependency Inversion Principle\\Program.cs",
+              "ToolTip": "G:\\DOTNET\\Lab\\EXP_3\\Dependency Inversion Principle\\Dependency Inversion Principle\\Program.cs",
+              "RelativeToolTip": "Dependency Inversion Principle\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:35:51.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
